@@ -1,5 +1,5 @@
-### BUS RESERVATION PROJECT
-[Console Project] 버스 좌석예매 프로그램
+### CONSOLE PROJECT
+버스 좌석예매 프로그램
 
 <br>
 
